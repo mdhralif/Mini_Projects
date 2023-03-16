@@ -15,6 +15,16 @@ namespace Authentication
         public Form3()
         {
             InitializeComponent();
+            
+            messegelabel.Text = "Welcome! " + Form1.form1instance.username;
+        }
+
+        private void logoutbutton_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+            this.Hide();
+
         }
     }
 }

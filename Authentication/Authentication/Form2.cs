@@ -73,7 +73,7 @@ namespace Authentication
 
         }
 
-        private void LoginLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Form1 f1 = new Form1();
             f1.Show();
