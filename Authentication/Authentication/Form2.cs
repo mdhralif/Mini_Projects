@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -27,7 +28,7 @@ namespace Authentication
 
         private void signupbutton_Click(object sender, EventArgs e)
         {
-            string file = "C:\\Users\\Hp\\Desktop\\Verification";
+            string file = "C:\\Users\\Hp\\Desktop\\Verification\\Authentication\\pass.txt";
             bool flag = true;
             if (File.Exists(file))
             {
@@ -51,6 +52,8 @@ namespace Authentication
                             File.AppendAllText(file, "\n");
                             File.AppendAllText(file, pwtextbox.Text);
                             File.AppendAllText(file, "\n");
+
+
                             Form1 f1 = new Form1();
                             f1.Show();
                             this.Hide();
@@ -70,15 +73,11 @@ namespace Authentication
                     MessageBox.Show("Username and password must be at least six characters!");
                 }
             }
+            else MessageBox.Show("File not found!");
+
 
         }
 
-        private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            Form1 f1 = new Form1();
-            f1.Show();
-            this.Hide();
-        }
     }
 }
     

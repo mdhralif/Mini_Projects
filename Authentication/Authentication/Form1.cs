@@ -32,29 +32,34 @@ namespace Authentication
         private void loginbutton_Click(object sender, EventArgs e)
         {
 
-            string file = "C:\\Users\\Hp\\Desktop\\Verification";
-            bool flag1 = false;
-            bool flag2 = false;
+            string file = "C:\\Users\\Hp\\Desktop\\Verification\\Authentication\\pass.txt";
+            bool flag = false;
 
             if(File.Exists(file))
             {
                 string[] lines = File.ReadAllLines(file);
-                int i = 1;
-                foreach (string line in lines)
+                for(int i = 0; i < lines.Length; i++)
                 {
-                    if (i % 3 == 2 && line == user_textbox.Text) flag1 = true;
-                    if (i % 3 == 0 && line == user_textbox.Text) flag2 = true;
-                    i++;
+                    if (i % 3 == 1 && lines[i] == user_textbox.Text)
+                    {
+                        if (lines[i+1] == pwtextbox.Text) flag = true;
+
+                    }
                 }
 
             }
-            if (flag1 && flag2)
+            if (flag)
             {
                 username = user_textbox.Text;
                 Form3 f3 = new Form3();
                 f3.Show();
                 this.Hide();
             }
+            else MessageBox.Show("Username or password incorrect!");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }
