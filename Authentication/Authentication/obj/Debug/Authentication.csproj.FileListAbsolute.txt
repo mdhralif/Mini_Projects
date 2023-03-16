@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\bin\Debug\Authentication.exe.config
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\bin\Debug\Authentication.exe
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\bin\Debug\Authentication.pdb
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.Form1.resources
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.Form2.resources
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.Form3.resources
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.Properties.Resources.resources
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.exe
+C:\Users\Hp\Desktop\Verification\Authentication\Authentication\obj\Debug\Authentication.pdb
