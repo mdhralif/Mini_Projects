@@ -1,0 +1,7 @@
+C:\Users\SANI\Desktop\C####\Generate & Print\bin\Debug\Generate & Print.exe.config
+C:\Users\SANI\Desktop\C####\Generate & Print\bin\Debug\Generate & Print.exe
+C:\Users\SANI\Desktop\C####\Generate & Print\bin\Debug\Generate & Print.pdb
+C:\Users\SANI\Desktop\C####\Generate & Print\obj\Debug\Generate & Print.csproj.AssemblyReference.cache
+C:\Users\SANI\Desktop\C####\Generate & Print\obj\Debug\Generate & Print.csproj.CoreCompileInputs.cache
+C:\Users\SANI\Desktop\C####\Generate & Print\obj\Debug\Generate & Print.exe
+C:\Users\SANI\Desktop\C####\Generate & Print\obj\Debug\Generate & Print.pdb
