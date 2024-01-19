@@ -1,0 +1,14 @@
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\bin\Debug\net7.0\Inventory Management System Console App.exe
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\bin\Debug\net7.0\Inventory Management System Console App.deps.json
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\bin\Debug\net7.0\Inventory Management System Console App.runtimeconfig.json
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\bin\Debug\net7.0\Inventory Management System Console App.dll
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\bin\Debug\net7.0\Inventory Management System Console App.pdb
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.AssemblyInfoInputs.cache
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.AssemblyInfo.cs
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.csproj.CoreCompileInputs.cache
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.dll
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\refint\Inventory Management System Console App.dll
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.pdb
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\Inventory Management System Console App.genruntimeconfig.cache
+D:\Downloads\Inventory-Management-System-Console-App-V2-master\Inventory-Management-System-Console-App-V2-master\obj\Debug\net7.0\ref\Inventory Management System Console App.dll
